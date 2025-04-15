@@ -1,4 +1,4 @@
-# Zoom Clone
+# NextMeet - A video conferencing platform that allows people to connect through
 
 A real-time video conferencing application built with React, Node.js, Socket.IO, and MongoDB.
 
